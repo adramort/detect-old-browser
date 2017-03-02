@@ -1,0 +1,27 @@
+.outdated-browser {
+  position: fixed;
+  width: 100%;
+  min-width: 980px;
+  z-index: 9999;
+  background: #333;
+  text-align: center;
+  color: #fff;
+}
+.outdated-browser_text {
+  display: inline-block;
+  margin: 40px;
+}
+.outdated-browser_close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: #fff;
+}
+.outdated-browser_button {
+  display: inline-block;
+  margin: 40px;
+}
+.outdated-browser_close:before {
+  content: "×";
+  font-size: 30px;
+}

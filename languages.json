@@ -1,0 +1,140 @@
+{
+  "br": {
+    "title": "O seu navegador est&aacute; desatualizado!",
+    "text": "Atualize o seu navegador para ter uma melhor experi&ecirc;ncia e visualiza&ccedil;&atilde;o deste site. ",
+    "link": "Atualize o seu navegador agora",
+    "close": "Fechar"
+  },
+  "cn": {
+    "title": "您的浏览器已过时",
+    "text": "要正常浏览本网站请升级您的浏览器。",
+    "link": "现在升级",
+    "close": "关闭"
+  },
+  "cz": {
+    "title": "Váš prohlížeč je zastaralý!",
+    "text": "Pro správné zobrazení těchto stránek aktualizujte svůj prohlížeč. ",
+    "link": "Aktualizovat nyní svůj prohlížeč",
+    "close": "Zavřít"
+  },
+   "da": {
+    "title": "Din browser er forældet!",
+    "text": "Opdatér din browser for at få vist denne hjemmeside korrekt. ",
+    "link": "Opdatér din browser nu",
+    "close": "Luk"
+  },
+  "de": {
+    "title": "Ihr Browser ist veraltet!",
+    "text": "Bitte aktualisieren Sie Ihren Browser, um diese Website korrekt darzustellen. ",
+    "link": "Den Browser jetzt aktualisieren ",
+    "close": "Schließen"
+  },
+  "ee": {
+    "title": "Sinu veebilehitseja on vananenud!",
+    "text": "Palun uuenda oma veebilehitsejat, et näha lehekülge korrektselt. ",
+    "link": "Uuenda oma veebilehitsejat kohe",
+    "close": "Sulge"
+  },
+  "en": {
+    "title": "Your browser is out-of-date!",
+    "text":"Update your browser to view this website correctly. ",
+    "link": "Update my browser now",
+    "close": "Close"
+  },
+  "es": {
+    "title": "¡Tu navegador está anticuado!",
+    "text": "Actualiza tu navegador para ver esta página correctamente. ",
+    "link": "Actualizar mi navegador ahora",
+    "close": "Cerrar"
+  },
+  "fa": {
+    "title": "مرورگر شما منسوخ شده است!",
+    "text": "جهت مشاهده صحیح این وبسایت، مرورگرتان را بروز رسانی نمایید. ",
+    "link": "همین حالا مرورگرم را بروز کن",
+    "close": "Close"
+  },
+  "fi": {
+    "title": "Selaimesi on vanhentunut!",
+    "text":"Lataa ajantasainen selain n&auml;hd&auml;ksesi t&auml;m&auml;n sivun oikein. ",
+    "link": "P&auml;ivit&auml; selaimeni nyt ",
+    "close": "Sulje"
+  },
+  "fr": {
+    "title": "Votre navigateur est désuet!",
+    "text": "Mettez à jour votre navigateur pour afficher correctement ce site Web. ",
+    "link": "Mettre à jour maintenant ",
+    "close": "Fermer"
+  },
+  "hu": {
+    "title": "A böngészője elavult!",
+    "text": "Firssítse vagy cserélje le a böngészőjét. ",
+    "link": "A böngészőm frissítése ",
+    "close": "Close"
+  },
+  "id":{
+    "title": "Browser yang Anda gunakan sudah ketinggalan zaman!",
+    "text": "Perbaharuilah browser Anda agar bisa menjelajahi website ini dengan nyaman. ",
+    "link": "Perbaharui browser sekarang ",
+    "close": "Close"
+  },
+  "it": {
+    "title": "Il tuo browser non &egrave; aggiornato!",
+    "text": "Aggiornalo per vedere questo sito correttamente. ",
+    "link": "Aggiorna ora",
+    "close": "Chiudi"
+  },
+  "lt":{
+    "title": "Jūsų naršyklės versija yra pasenusi!",
+    "text": "Atnaujinkite savo naršyklę, kad galėtumėte peržiūrėti šią svetainę tinkamai. ",
+    "link": "Atnaujinti naršyklę ",
+    "close": "Close"
+  },
+  "nl": {
+    "title": "Je gebruikt een oude browser!",
+    "text": "Update je browser om deze website correct te bekijken. ",
+    "link": "Update mijn browser nu ",
+    "close": "Sluiten"
+  },
+  "pl": {
+    "title": "Twoja przeglądarka jest przestarzała!",
+    "text": "Zaktualizuj swoją przeglądarkę, aby poprawnie wyświetlić tę stronę. ",
+    "link": "Zaktualizuj przeglądarkę już teraz",
+    "close": "Close"
+  },
+  "pt": {
+    "title": "O seu browser est&aacute; desatualizado!",
+    "text": "Atualize o seu browser para ter uma melhor experi&ecirc;ncia e visualiza&ccedil;&atilde;o deste site. ",
+    "link": "Atualize o seu browser agora",
+    "close": "Fechar"
+  },
+  "ro": {
+    "title": "Browserul este învechit!",
+    "text":"Actualizați browserul pentru a vizualiza corect acest site. ",
+    "link": "Actualizați browserul acum!",
+    "close": "Close"
+  },
+  "ru": {
+    "title": "Ваш браузер устарел!",
+    "text": "Обновите ваш браузер для правильного отображения этого сайта. ",
+    "link": "Обновить мой браузер ",
+    "close": "Закрыть"
+  },
+  "si": {
+    "title": "Vaš brskalnik je zastarel!",
+    "text": "Za pravilen prikaz spletne strani posodobite vaš brskalnik. ",
+    "link": "Posodobi brskalnik ",
+    "close": "Zapri"
+  },
+  "sv": {
+    "title": "Din webbläsare stödjs ej längre!",
+    "text": "Uppdatera din webbläsare för att webbplatsen ska visas korrekt. ",
+    "link": "Uppdatera min webbläsare nu",
+    "close": "Stäng"
+  },
+  "ua": {
+    "title": "Ваш браузер застарів!",
+    "text": "Оновіть ваш браузер для правильного відображення цього сайта. ",
+    "link": "Оновити мій браузер ",
+    "close": "Закрити"
+  }
+}
